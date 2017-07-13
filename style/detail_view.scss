@@ -1,0 +1,25 @@
+@import 'media_query';
+
+.detail-header-data {
+  display: inline-block;
+  line-height: 13px;
+  padding-left: 13px;
+}
+
+.detail-header-data h1 {
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+}
+
+.user-view-info {
+  width: 70%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.phone-right {
+  font-weight: 600;
+  float: right;
+  padding-right: 50px;
+}
